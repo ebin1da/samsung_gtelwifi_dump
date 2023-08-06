@@ -1,0 +1,56 @@
+# All blobs from gtelwifixx-user 4.4.4 KTU84P T560XXU0APL1 release-keys, unless pinned
+
+# Audio
+
+# Bluetooth
+vendor/lib/libbt-vendor.so
+
+# Bluetooth-AptX
+lib/libbt-aptx-4.0.3.so
+lib/libbt-codec_aptx.so
+
+# Camera
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libwvdrmengine.so
+
+# Display-Hardware
+
+# Firmware
+vendor/firmware/BCM43430A1_001.002.009.0022.0000_Samsung_TabE_SM-T561_TEST_ONLY.hcd
+vendor/firmware/vbc_eq
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Lights
+vendor/lib/hw/lights.sc8830.so
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/lib/libwvdrm_L3.so
+vendor/lib/libWVStreamControlAPI_L3.so

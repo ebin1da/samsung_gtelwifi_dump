@@ -1,0 +1,20 @@
+## gtelwifixx-user 4.4.4 KTU84P T560XXU0APL1 release-keys
+- Manufacturer: samsung
+- Platform: sc8830
+- Codename: gtelwifi
+- Brand: samsung
+- Flavor: user
+- Release Version: 4.4.4
+- Kernel Version: 
+- Id: KTU84P
+- Incremental: T560XXU0APL1
+- Tags: release-keys
+- CPU Abilist: 
+- A/B Device: false
+- Treble Device: false
+- Locale: undefined
+- Screen Density: 160
+- Fingerprint: samsung/gtelwifixx/gtelwifi:4.4.4/KTU84P/T560XXU0APL1:user/release-keys
+- OTA version: 
+- Branch: gtelwifixx-user-4.4.4-KTU84P-T560XXU0APL1-release-keys
+- Repo: samsung_gtelwifi_dump

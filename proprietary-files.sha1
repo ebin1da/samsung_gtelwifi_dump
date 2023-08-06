@@ -1,0 +1,56 @@
+# All blobs are from "gtelwifixx-user 4.4.4 KTU84P T560XXU0APL1 release-keys" and are pinned with sha1sum values
+
+# Audio
+
+# Bluetooth
+vendor/lib/libbt-vendor.so|48319d2a139026c1414b70151dbe97a2835dcef6
+
+# Bluetooth-AptX
+lib/libbt-aptx-4.0.3.so|088467380f982c0d49159e4c1a9be875a33d0c7c
+lib/libbt-codec_aptx.so|38bcc1721adb5184655f652a2ce4e4d073f159f7
+
+# Camera
+
+# DRM
+
+# DRM-Widevine
+vendor/lib/mediadrm/libwvdrmengine.so|32b0b0e61951e868e3b0b9c30cde38f7242384bd
+
+# Display-Hardware
+
+# Firmware
+vendor/firmware/BCM43430A1_001.002.009.0022.0000_Samsung_TabE_SM-T561_TEST_ONLY.hcd|b16f935647e55ca1894a89bf56c62b899c54bf74
+vendor/firmware/vbc_eq|31db83fef0c09224252517bc16bec8bbd76580c9
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Lights
+vendor/lib/hw/lights.sc8830.so|0a4a7cedd491ec4dc0ae501ed33f6d3d97a7a9e2
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# Misc
+vendor/lib/libwvdrm_L3.so|0d91b93333e80d06e07a1709940b3699476764cd
+vendor/lib/libWVStreamControlAPI_L3.so|cd5c87ac66ba628030a9f88df0de806c1bce2f34
